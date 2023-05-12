@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\repos\RelocationTable\Source.cpp(45,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\repos\RelocationTable\Source.cpp(438,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“BYTE *”
+E:\repos\RelocationTable\Source.cpp(440,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“BYTE *”
+E:\repos\RelocationTable\Source.cpp(454,10): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“_IMAGE_SECTION_HEADER *”
+E:\repos\RelocationTable\Source.cpp(526,9): warning C4477: “printf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“BYTE *”
+  RelocationTable.vcxproj -> E:\repos\RelocationTable\Debug\RelocationTable.exe
