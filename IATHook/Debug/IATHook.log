@@ -1,0 +1,6 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  pch.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+C:\Users\1321\source\repos\IATHook\dllmain.cpp(54,10): warning C4101: 'buf': unreferenced local variable
+  IATHook.vcxproj -> C:\Users\1321\source\repos\IATHook\Debug\IATHook.dll
